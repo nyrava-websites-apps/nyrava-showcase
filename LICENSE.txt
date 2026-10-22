@@ -1,0 +1,11 @@
+Nyrava — Proprietary Showcase Notice
+
+Copyright 2026 the respective rights holders. All rights reserved.
+
+This repository is a public marketing showcase, not an open-source software release. No license to any Nyrava application, private source code, customer work, trademark, or production asset is granted by this repository.
+
+Except for rights required by applicable law or GitHub's applicable Terms of Service, no permission is granted to reproduce, modify, distribute, sublicense, sell, or deploy the original showcase materials or use Nyrava branding without prior written permission from the relevant rights holder.
+
+Third-party materials and customer trademarks remain the property of their respective owners and are governed by their own licenses and agreements. This notice does not override those rights, existing contractual rights, or previously granted licenses.
+
+Commercial software rights are granted only through a separate executed agreement identifying the legal licensor, licensee, product, scope, and fees.
